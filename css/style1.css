@@ -1,9 +1,8 @@
 /* styles.css */
 body {
-    display: grid;
     font-family: "Playfair Display", Georgia, serif;
-    margin-left: 120px;
-    margin-right: 120px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding: 0;
     color: #333;
 }
