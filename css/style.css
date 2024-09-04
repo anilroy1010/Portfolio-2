@@ -451,9 +451,10 @@ body.offcanvas {
     padding: 2px 10px; }
     .hire1 {
       text-align: center;
+      border: 1px solid black;
       border-radius: 10px;
       padding: 2em;
-      background: hwb(209 30% 4%); }
+      background: white }
       .hire1 h1 {
         font-weight: bold;
         line-height: 1.5; }
